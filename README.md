@@ -1,2 +1,2 @@
-Hi Go REST
+Go REST
 
